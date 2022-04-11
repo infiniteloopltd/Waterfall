@@ -1,0 +1,6 @@
+c:\users\fiach\documents\visual studio 2013\Projects\Waterfall\bin\Debug\Waterfall.exe.config
+c:\users\fiach\documents\visual studio 2013\Projects\Waterfall\bin\Debug\Waterfall.exe
+c:\users\fiach\documents\visual studio 2013\Projects\Waterfall\bin\Debug\Waterfall.pdb
+c:\users\fiach\documents\visual studio 2013\Projects\Waterfall\obj\Debug\Waterfall.csprojResolveAssemblyReference.cache
+c:\users\fiach\documents\visual studio 2013\Projects\Waterfall\obj\Debug\Waterfall.exe
+c:\users\fiach\documents\visual studio 2013\Projects\Waterfall\obj\Debug\Waterfall.pdb
